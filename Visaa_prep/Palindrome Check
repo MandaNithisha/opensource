@@ -1,0 +1,6 @@
+N=str(input())
+reverse=N[::-1]
+if N==reverse:
+    print("TRUE")
+else:
+    print("FALSE")
